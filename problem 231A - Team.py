@@ -34,8 +34,8 @@ input
 0 1 1
 output
 1
-Note
 
+Note
 In the first sample Petya and Vasya are sure that they know how to solve the first problem and all three of them know how to solve the second problem. That means that they will write solutions for these problems.
 Only Petya is sure about the solution for the third problem, but that isn't enough, so the friends won't take it.
 In the second sample the friends will only implement the second problem, as Vasya and Tonya are sure about the solution.
