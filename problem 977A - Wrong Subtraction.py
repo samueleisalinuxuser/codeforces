@@ -2,8 +2,8 @@
 A. Wrong Subtraction
 time limit per test1 second
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 Little girl Tanya is learning how to decrease a number by one, but she does it wrong with a number consisting of two or more digits.
 Tanya subtracts one from a number by the following algorithm:
