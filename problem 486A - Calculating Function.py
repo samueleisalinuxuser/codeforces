@@ -2,8 +2,8 @@
 A. Calculating Function
 time limit per test1 second
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 For a positive integer n let's define a function f:
 f(n) =  - 1 + 2 - 3 + .. + ( - 1)**n*n
