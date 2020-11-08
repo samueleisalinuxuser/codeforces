@@ -2,8 +2,8 @@
 A. Helpful Maths
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 Xenia the beginner mathematician is a third year student at elementary school. She is now learning the addition operation.
 The teacher has written down the sum of multiple numbers.
