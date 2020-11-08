@@ -2,8 +2,8 @@
 A. Team
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 One day three best friends Petya, Vasya and Tonya decided to form a team and take part in programming contests.
 Participants are usually offered several problems during programming contests.
