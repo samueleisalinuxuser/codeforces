@@ -2,8 +2,8 @@
 A. Football
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 Petya loves football very much. One day, as he was watching a football match, he was writing the players' current positions on a piece of paper.
 To simplify the situation he depicted it as a string consisting of zeroes and ones.
