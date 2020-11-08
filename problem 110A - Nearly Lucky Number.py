@@ -2,8 +2,8 @@
 A. Nearly Lucky Number
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 Petya loves lucky numbers. We all know that lucky numbers are the positive integers whose decimal representations contain only the lucky digits 4 and 7.
 For example, numbers 47, 744, 4 are lucky and 5, 17, 467 are not.
