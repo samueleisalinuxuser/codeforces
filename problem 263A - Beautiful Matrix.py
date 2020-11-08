@@ -2,8 +2,8 @@
 A. Beautiful Matrix
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 You've got a 5 × 5 matrix, consisting of 24 zeroes and a single number one.
 Let's index the matrix rows by numbers from 1 to 5 from top to bottom, let's index the matrix columns by numbers from 1 to 5 from left to right.
