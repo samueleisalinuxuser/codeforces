@@ -2,8 +2,8 @@
 A. HQ9+
 time limit per test2 seconds
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 HQ9+ is a joke programming language which has only four one-character instructions:
 "H" prints "Hello, World!",
