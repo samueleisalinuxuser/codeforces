@@ -2,8 +2,8 @@
 A. Watermelon
 time limit per test1 second
 memory limit per test64 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion.
 After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
