@@ -2,8 +2,8 @@
 A. Bit++
 time limit per test1 second
 memory limit per test256 megabytes
-inputstandard input
-outputstandard output
+input: standard input
+output: standard output
 
 The classic programming language of Bitland is Bit++. This language is so peculiar and complicated.
 The language is that peculiar as it has exactly one variable, called x. Also, there are two operations:
