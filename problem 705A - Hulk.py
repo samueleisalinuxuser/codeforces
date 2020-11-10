@@ -32,6 +32,7 @@ inputCopy
 output
 I hate that I love that I hate it
 """
+
 try:
     n = int(input())
     if n >= 1 and n <= 100:
