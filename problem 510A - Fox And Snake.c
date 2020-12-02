@@ -52,6 +52,8 @@ output
 #########
 */
 
+//GNU C++17 (64)
+
 #include <stdio.h>
 
 int main(){
