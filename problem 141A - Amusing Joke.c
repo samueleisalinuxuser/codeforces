@@ -54,15 +54,13 @@ int main(){
 	char ls[3][101];
 	for(int l=0; l<3; l++) fgets(ls[l],101,stdin);
 	
-	//Checking the inputs.
 	int v = 1;
-	//Controlling the lenghts of the inputs.
+
 	for(int l=0; l<3;l++) if(strlen(ls[l])-1 > 100){
 		v = 0;
 		break;
 	}
 
-	//Checking if the inputs constists in uppercase latin letters.
 	if(v) for(int l=0; l<3; l++) for(int c=0; c<strlen(ls[l])-1; c++) if((int) ls[l][c] < 65 || (int) ls[l][c] > 90){
 		v = 0;
 		break;
