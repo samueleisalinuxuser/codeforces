@@ -49,16 +49,7 @@ int main(){
             int n;
             for(int ts=0; ts<t; ts++){
                 n=ns[ts];
-
-                /*
-                In order to make sure that in the permutation the indexes of the numbers do not
-                correspond to the numbers themselves, it is first printed n and then all numbers between 1 and n-1,
-                so that n will have index 0, the numbers between 1 and n-2 will have index n-1 and n-1 will have index n.
                 
-                For example, considering the number 8 the output will be: 8 1 2 3 4 5 6 7.
-                |pi|8|1|2|3|4|5|6|7|
-                |i |1|2|3|4|5|6|7|8|
-                */
                 printf("%i ",n);
                 for(int i=1; i<n; i++) printf("%i ",i);
 
