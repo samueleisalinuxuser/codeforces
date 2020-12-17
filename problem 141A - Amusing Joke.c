@@ -47,6 +47,8 @@ In the second sample letter "P" is missing from the pile and there's an extra le
 In the third sample there's an extra letter "L".
 */
 
+// GNU C++17 (64)
+
 #include <stdio.h>
 #include <string.h>
 
