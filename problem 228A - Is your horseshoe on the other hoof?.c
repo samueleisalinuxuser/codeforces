@@ -30,7 +30,7 @@ output
 3
 */
 
-// lang: GNU C++17 (64)
+// GNU C++17 (64)
 
 #include <stdio.h>
 #include <math.h>
