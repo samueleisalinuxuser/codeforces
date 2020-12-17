@@ -35,6 +35,8 @@ In the second sample case, Allen can withdraw two 20 dollar bills and three 1 do
 In the third sample case, Allen can withdraw 100000000 (ten million!) 100 dollar bills.
 */
 
+// GNU C++17 (64)
+
 #include <stdio.h>
 #include <math.h>
 
