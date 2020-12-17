@@ -30,6 +30,8 @@ output
 2 1 5 3 4
 */
 
+// GNU C++17 (64)
+
 #include <stdio.h>
 
 int main(){
