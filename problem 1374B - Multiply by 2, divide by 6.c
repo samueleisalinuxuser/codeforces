@@ -6,9 +6,7 @@ input: standard input
 output: standard output
 
 You are given an integer n. In one move, you can either multiply n by two or divide n by 6 (if it is divisible by 6 without the remainder).
-
 Your task is to find the minimum number of moves needed to obtain 1 from n or determine if it's impossible to do that.
-
 You have to answer t independent test cases.
 
 Input
