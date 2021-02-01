@@ -10,8 +10,8 @@ Your task is to find the minimum number of moves needed to obtain 1 from n or de
 You have to answer t independent test cases.
 
 Input
-The first line of the input contains one integer t (1≤t≤2⋅104) — the number of test cases. Then t test cases follow.
-The only line of the test case contains one integer n (1≤n≤109).
+The first line of the input contains one integer t (1≤t≤2*10^4) — the number of test cases. Then t test cases follow.
+The only line of the test case contains one integer n (1≤n≤10^9).
 
 Output
 For each test case, print the answer — the minimum number of moves needed to obtain 1 from n if it's possible to do that or -1 if it's impossible to obtain 1 from n.
