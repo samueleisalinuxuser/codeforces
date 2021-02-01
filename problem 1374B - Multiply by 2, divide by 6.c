@@ -11,7 +11,6 @@ You have to answer t independent test cases.
 
 Input
 The first line of the input contains one integer t (1≤t≤2⋅104) — the number of test cases. Then t test cases follow.
-
 The only line of the test case contains one integer n (1≤n≤109).
 
 Output
@@ -38,7 +37,6 @@ output
 
 Note
 Consider the sixth test case of the example. The answer can be obtained by the following sequence of moves from the given integer 15116544:
-
 Divide by 6 and get 2519424;
 divide by 6 and get 419904;
 divide by 6 and get 69984;
