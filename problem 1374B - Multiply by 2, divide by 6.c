@@ -37,18 +37,18 @@ output
 
 Note
 Consider the sixth test case of the example. The answer can be obtained by the following sequence of moves from the given integer 15116544:
-Divide by 6 and get 2519424;
-divide by 6 and get 419904;
-divide by 6 and get 69984;
-divide by 6 and get 11664;
-multiply by 2 and get 23328;
-divide by 6 and get 3888;
-divide by 6 and get 648;
-divide by 6 and get 108;
-multiply by 2 and get 216;
-divide by 6 and get 36;
-divide by 6 and get 6;
-divide by 6 and get 1.
+1. Divide by 6 and get 2519424;
+2. divide by 6 and get 419904;
+3. divide by 6 and get 69984;
+4. divide by 6 and get 11664;
+5. multiply by 2 and get 23328;
+6. divide by 6 and get 3888;
+7. divide by 6 and get 648;
+8. divide by 6 and get 108;
+9. multiply by 2 and get 216;
+10. divide by 6 and get 36;
+11. divide by 6 and get 6;
+12. divide by 6 and get 1.
 */
 
 // GNU C11
