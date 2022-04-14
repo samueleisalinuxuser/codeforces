@@ -1,35 +1,3 @@
-"""
-A. Calculating Function
-time limit per test: 1 second
-memory limit per test: 256 megabytes
-input: standard input
-output: standard output
-
-For a positive integer n let's define a function f:
-f(n) =  - 1 + 2 - 3 + .. + ( - 1)**n*n
-Your task is to calculate f(n) for a given integer n.
-
-Input
-The single line contains the positive integer n (1 ≤ n ≤ 10**15).
-
-Output
-Print f(n) in a single line.
-
-Examples
-input
-4
-output
-2
-input
-5
-output
--3
-
-Note
-f(4) =  - 1 + 2 - 3 + 4 = 2
-f(5) =  - 1 + 2 - 3 + 4 - 5 = -3
-"""
-
 def cf(n):
     if n >= 1 and n <= 10**15:
         c = 0
